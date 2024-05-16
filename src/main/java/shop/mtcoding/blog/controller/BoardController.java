@@ -1,4 +1,4 @@
-package shop.mtcoding.blog.board;
+package shop.mtcoding.blog.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
